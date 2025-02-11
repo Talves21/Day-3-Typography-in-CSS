@@ -1,0 +1,15 @@
+body{
+    font-family: "Playfair Display", Arial, sans-serif;
+}
+
+.boldText1{
+    font-weight: 300;
+}
+
+.boldText2{
+    font-weight: 400;
+}
+
+.boldText3{
+    font-weight: 700;
+}

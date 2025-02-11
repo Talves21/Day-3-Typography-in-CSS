@@ -1,0 +1,15 @@
+ body{
+    font-family: "Playfair Display", Arial, sans-serif;
+    line-height: 1.5;
+    letter-spacing: 2px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+    body {width: 200px; float: left;
+    background-color: green;}
+  }
